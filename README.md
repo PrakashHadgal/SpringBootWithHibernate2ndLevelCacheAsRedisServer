@@ -1,5 +1,3 @@
-# SpringBootWithHibernate2ndLevelCacheAsRedisServer
-
 # Spring Boot With Hibernate 2nd Level Cache As Redis Server
 
 𝙃𝙞 𝙁𝙧𝙞𝙚𝙣𝙙𝙨,
